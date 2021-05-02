@@ -1,4 +1,4 @@
-# maxslug's Mikrotik Networking Configuration Files
+# Mikrotik Networking Configuration Files
 
 <!-- Someday github will catch up to gitlab and support Mermaid -->
 ![Network Diagram](/doc/network.jpg)
@@ -7,7 +7,7 @@ This repo is to hold my configuration files for a complex home network based on
 Mikrotik networking gear.  Thank you to all the mikrotik forum posters for all
 this knowledge and hard work, especially `pcunite`!
 
-To discuss this please join us here : https://forum.mikrotik.com/viewtopic.php?f=13&t=166330
+
 
 ## Design Goals
 
